@@ -3,3 +3,5 @@ I'm adding some text to the beginning
 Here is my first file
 It has some text
 Something something something
+
+I'm adding a line at the bottom
